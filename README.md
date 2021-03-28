@@ -1,5 +1,5 @@
-# TrustTrader Scraping
-Scrap www.trusttrader.com search using **Python3** and **BeautifulSoup** library.
+# TrustATrader Scraping
+Scrap www.trustatrader.com search using **Python3** and **BeautifulSoup** library.
 
 The program takes the search url as an input and scrap the the the pages to find companies details: 
 - company name
@@ -10,7 +10,7 @@ The program takes the search url as an input and scrap the the the pages to find
 - rating 
 
 
-**--url** trusttrader.com search url
+**--url** trustatrader.com search url
 
 **--all_pages** optional command line argument to specify if all pages needs to be scanned.
 
