@@ -18,7 +18,7 @@ The program takes the search url as an input and scrap the the the pages to find
 
 How to run examples:
 ```
-python3 trusttrader.py --all_pages --file_path /home/adnan/
+python3 trusttrader.py --all_pages --file_path /home/adnan/ --url "https://www.trustatrader.com/search?trade_name=Builder&search_trade_id=5b4cbdcb8811d346b846d974&location_str=Bury+St+Edmunds&lat=&lon=&trader=&search_trader_id="
 ```
 
 ```
