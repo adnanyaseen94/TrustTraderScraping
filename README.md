@@ -1,7 +1,7 @@
 # TrustATrader Scraping
 Scrap www.trustatrader.com search using **Python3** and **BeautifulSoup** library.
 
-The program takes the search url as an input and scrap the the the pages to find companies details: 
+The program takes the search url as an input and scrap the the pages to find companies details: 
 - company name
 - tel number
 - mob number
